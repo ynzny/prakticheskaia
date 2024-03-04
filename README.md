@@ -1,1 +1,3 @@
-# prakticheskaia
+<h1 align="center">Практическая работа</h1>
+
+Практическая работа №1 - pract1
